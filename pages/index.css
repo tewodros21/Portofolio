@@ -1,0 +1,4 @@
+.profile-picture-background:hover {
+    transform: scale(1.07);
+    transition: 1s ease-out;
+   }
